@@ -1,33 +1,50 @@
-# Hello there, I'm KernelTJ 👋
+<div align="center">
 
-## Cyber Threat Intelligence | Cybersecurity | Digital Risk
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=JeffinTJ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Threat%20Intelligence%20Professional%20%&descAlignY=58&descSize=18" width="100%"/>
 
-I'm a cybersecurity and digital forensic graduate with practical experience in Cyber Threat Intelligence, OSINT, threat analysis, and security investigations.
-I'm interested in understanding how cyber threats work, investigating suspicious activity, and turning technical findings into useful intelligence.
+# 🛡️ CYBER THREAT INTELLIGENCE
 
-### 🔎 Areas of Interest
+### `INVESTIGATE • CORRELATE • UNDERSTAND • DEFEND`
 
-- Cyber Threat Intelligence (CTI)
-- Threat Actor Research
-- MITRE ATT&CK
-- IOC Analysis & Enrichment
-- Network Traffic Analysis
-- Phishing Analysis
-- OSINT
-- Malware & Hash Triage
-- Incident Response
+<br>
 
-### 📂 Featured Work
+<a href="https://github.com/YOUR-USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-I'm currently building a portfolio of practical cybersecurity investigations and CTI projects, including:
+<br><br>
 
-- PCAP-based C2 Traffic Investigation
-- Phishing Email Analysis
-- Threat Actor Intelligence Profiling
-- CVE Threat Intelligence Assessment
-- Dark Web Intelligence Analysis
-- Operation Iron Tempest 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Cyber+Threat+Intelligence;OSINT+%7C+Digital+Forensics;Threat+Actor+Research;PCAP+%26+C2+Analysis;MITRE+ATT%26CK+%7C+Threat+Research" />
 
-### 🎯 Currently
+</div>
 
-Building practical cybersecurity projects and expanding my skills in Cyber Threat Intelligence, threat research, and security analysis.
+---
+
+## 👨‍💻 ABOUT ME
+
+I'm a **Cybersecurity Graduate** focused on **Cyber Threat Intelligence, Digital Forensics, OSINT, and security investigations**.
+
+I enjoy turning raw security data into meaningful intelligence — whether that starts with an IOC, suspicious domain, phishing email, malware hash, network capture, vulnerability, or threat report.
+
+My focus is not simply on finding indicators, but on understanding the **context, behaviour, infrastructure, and potential impact** behind them.
+
+```text
+        DATA
+          │
+          ▼
+     ENRICHMENT
+          │
+          ▼
+     CORRELATION
+          │
+          ▼
+       ANALYSIS
+          │
+          ▼
+    INTELLIGENCE
+          │
+          ▼
+        ACTION
