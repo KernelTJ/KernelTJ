@@ -11,7 +11,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Cyber+Threat+Intelligence;Open+Source+Intelligence+(OSINT);Digital+Crime+Prevention;Threat+Actor+Research;PCAP+%26+C2+Analysis;MITRE+ATT%26CK+Mapping%7C+Threat+Research" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Threat+Intelligence;OSINT+Investigations;IOC+Extraction+%26+Classification;Threat+Actor+Research;PCAP+%26+C2+Analysis;MITRE+ATT%26CK+Mapping;Phishing+Email+Analysis+%26+Attack+Chain+Reconstruction;Malware+Hash+Triage;Darkweb+Monitoring;Exploitation+Risk+Assessment" />
 
 </div>
 
@@ -106,8 +106,12 @@ My focus is not simply on finding indicators, but on understanding the **context
 <sub>Fortinet</sub>
 </td>
 
-
+<td align="center" width="25%">
+<img src="./assets/certifications/ceh.png" width="150"><br><br>
+<b>CEH Trained</b><br>
+<sub>EC-Council</sub>
 </td>
+
 
 </tr>
 </table>
