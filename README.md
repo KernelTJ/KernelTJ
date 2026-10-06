@@ -117,9 +117,7 @@ My focus is not simply on finding indicators, but on understanding the **context
 
 </div>
 
-<img src="./assets/certifications/fortinet-fundamentals.png" width="150"><br><br>
-<b>Fortinet Certified Fundamentals</b><br>
-<sub>Fortinet</sub>
+
 </td>
 
 </tr>
