@@ -32,19 +32,88 @@ I enjoy turning raw security data into meaningful intelligence — whether that 
 My focus is not simply on finding indicators, but on understanding the **context, behaviour, infrastructure, and potential impact** behind them.
 
 ```text
-        DATA
-          │
-          ▼
-     ENRICHMENT
-          │
-          ▼
-     CORRELATION
-          │
-          ▼
-       ANALYSIS
-          │
-          ▼
-    INTELLIGENCE
-          │
-          ▼
-        ACTION
+## 🏆 CERTIFICATIONS & CREDENTIALS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+<img src="./assets/certifications/ftia.png" width="150"><br><br>
+<b>Foundation Threat Intelligence Analyst</b><br>
+<sub>arcX</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="./assets/certifications/ccc.png" width="150"><br><br>
+<b>Certified Cyber Criminologist</b><br>
+<sub>Virtual Cyber Labs</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="./assets/certifications/apt.png" width="150"><br><br>
+<b>Advanced Penetration Tester</b><br>
+<sub>Red Team Hacker Academy</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="./assets/certifications/csedp.png" width="150"><br><br>
+<b>Social Engineering Defense Practitioner</b><br>
+<sub>The SecOps Group</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+<img src="./assets/certifications/cpps.png" width="150"><br><br>
+<b>Phishing Prevention Specialist</b><br>
+<sub>Hack & Fix Academy</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="./assets/certifications/ccep.png" width="150"><br><br>
+<b>Cybersecurity Educator Professional</b><br>
+<sub>Red Team Leaders</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="./assets/certifications/csa1.png" width="150"><br><br>
+<b>Certified Security Awareness 1</b><br>
+<sub>Mile2</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="./assets/certifications/icip.png" width="150"><br><br>
+<b>Introduction to Critical Infrastructure Protection</b><br>
+<sub>OPSWAT</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+<img src="./assets/certifications/nse1.png" width="150"><br><br>
+<b>Network Security Expert 1</b><br>
+<sub>Fortinet</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="./assets/certifications/nse2.png" width="150"><br><br>
+<b>Network Security Expert 2</b><br>
+<sub>Fortinet</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="./assets/certifications/fortinet-fundamentals.png" width="150"><br><br>
+<b>Fortinet Certified Fundamentals</b><br>
+<sub>Fortinet</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
