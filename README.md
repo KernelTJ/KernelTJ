@@ -31,7 +31,6 @@ I enjoy turning raw security data into meaningful intelligence — whether that 
 
 My focus is not simply on finding indicators, but on understanding the **context, behaviour, infrastructure, and potential impact** behind them.
 
-```text
 ## 🏆 CERTIFICATIONS & CREDENTIALS
 
 <div align="center">
@@ -108,6 +107,16 @@ My focus is not simply on finding indicators, but on understanding the **context
 </td>
 
 <td align="center" width="25%">
+<img src="./assets/certifications/fortinet-fundamentals.png" width="150"><br><br>
+<b>Fortinet Certified Fundamentals</b><br>
+<sub>Fortinet</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
 <img src="./assets/certifications/fortinet-fundamentals.png" width="150"><br><br>
 <b>Fortinet Certified Fundamentals</b><br>
 <sub>Fortinet</sub>
