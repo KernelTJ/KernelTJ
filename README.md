@@ -15,12 +15,44 @@
 
 ---
 
-## 👨‍💻 ABOUT ME
+## 👨‍💻 About Me
 
 I'm a **Cybersecurity and Digital Forensic Graduate** focused on **Cyber Threat Intelligence, OSINT, and security investigations**.
 
 I enjoy turning raw security data into meaningful intelligence whether that starts with an IOC, suspicious domain, phishing email, malware hash, network capture, vulnerability, or threat report.
 My focus is not simply on finding indicators, but on understanding the **context, behaviour, infrastructure, and potential impact** behind them.
+
+---
+
+## <img src="https://img.icons8.com/fluency/24/settings.png" width="22"/> Tech Stack
+
+### Platforms & OS
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+### Security Tools
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+![Shodan](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## <img src="https://img.icons8.com/fluency/24/combo-chart.png" width="22"/> GitHub Statistics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KernelTJ&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+---
+
 
 ## 🏆 CERTIFICATIONS & CREDENTIALS
 
