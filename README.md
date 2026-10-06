@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=JeffinTJ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Threat%20Intelligence%20Professional%20%&descAlignY=58&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF29,100:0D2A12&height=200&section=header&text=JEFFIN%20T%20JAIMON&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Threat%20Intelligence%20Professional%20%&descAlignY=58&descSize=18" width="100%"/>
 <br>
-
 </a>
 <a href="https://www.linkedin.com/in/jeffin-t-jaimon-841595244/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -11,7 +9,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Threat+Intelligence;OSINT+Investigations;IOC+Extraction+%26+Classification;Threat+Actor+Research;PCAP+%26+C2+Analysis;MITRE+ATT%26CK+Mapping;Phishing+Email+Analysis+%26+Attack+Chain+Reconstruction;Malware+Hash+Triage;Darkweb+Monitoring;Exploitation+Risk+Assessment" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF29&center=true&vCenter=true&width=700&lines=Threat+Intelligence;OSINT+Investigations;IOC+Extraction+%26+Classification;Threat+Actor+Research;PCAP+%26+C2+Analysis;MITRE+ATT%26CK+Mapping;Phishing+Email+Analysis+%26+Attack+Chain+Reconstruction;Malware+Hash+Triage;Darkweb+Monitoring;Exploitation+Risk+Assessment" />
 
 </div>
 
@@ -19,10 +17,9 @@
 
 ## 👨‍💻 ABOUT ME
 
-I'm a **Cybersecurity Graduate** focused on **Cyber Threat Intelligence, Digital Forensics, OSINT, and security investigations**.
+I'm a **Cybersecurity and Digital Forensic Graduate** focused on **Cyber Threat Intelligence, OSINT, and security investigations**.
 
-I enjoy turning raw security data into meaningful intelligence — whether that starts with an IOC, suspicious domain, phishing email, malware hash, network capture, vulnerability, or threat report.
-
+I enjoy turning raw security data into meaningful intelligence whether that starts with an IOC, suspicious domain, phishing email, malware hash, network capture, vulnerability, or threat report.
 My focus is not simply on finding indicators, but on understanding the **context, behaviour, infrastructure, and potential impact** behind them.
 
 ## 🏆 CERTIFICATIONS & CREDENTIALS
