@@ -5,7 +5,7 @@
 <br>
 
 </a>
-<a href="www.linkedin.com/in/jeffin-t-jaimon-841595244">
+<a href="https://www.linkedin.com/in/jeffin-t-jaimon-841595244/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
