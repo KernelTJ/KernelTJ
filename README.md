@@ -2,22 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=JeffinTJ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Threat%20Intelligence%20Professional%20%&descAlignY=58&descSize=18" width="100%"/>
 
-# 🛡️ CYBER THREAT INTELLIGENCE
-
-### `INVESTIGATE • CORRELATE • UNDERSTAND • DEFEND`
-
 <br>
 
-<a href="https://github.com/YOUR-USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="www.linkedin.com/in/jeffin-t-jaimon-841595244">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Cyber+Threat+Intelligence;OSINT+%7C+Digital+Forensics;Threat+Actor+Research;PCAP+%26+C2+Analysis;MITRE+ATT%26CK+%7C+Threat+Research" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Cyber+Threat+Intelligence;Open+Source+Intelligence+(OSINT);Digital+Crime+Prevention;Threat+Actor+Research;PCAP+%26+C2+Analysis;MITRE+ATT%26CK+Mapping%7C+Threat+Research" />
 
 </div>
 
@@ -110,6 +104,9 @@ My focus is not simply on finding indicators, but on understanding the **context
 <img src="./assets/certifications/fortinet-fundamentals.png" width="150"><br><br>
 <b>Fortinet Certified Fundamentals</b><br>
 <sub>Fortinet</sub>
+</td>
+
+
 </td>
 
 </tr>
